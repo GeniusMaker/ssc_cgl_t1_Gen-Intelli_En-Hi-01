@@ -112,7 +112,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Select the missing number from the given responses. / दिए गए विकल्पों में से लुप्त संख्या चुनिए।\n\n8     6     5\n7     9     8\n56   54    ?",
+    "Question": "Select the missing number from the given responses.  8 6 5 7 9 8 56 54 ? / दिए गए विकल्पों में से लुप्त संख्या चुनिए।\n\n8     6     5\n7     9     8\n56   54    ?",
     "A": "40 / 40",
     "B": "45 / 45",
     "C": "35 / 35",
@@ -176,7 +176,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Find the missing number in the following box. / निम्नलिखित बॉक्स में लुप्त संख्या ज्ञात कीजिए।\n\n2     3     4\n5     6     7\n29   45    ?",
+    "Question": "Find the missing number in the following box.1, 8, 27, 64, 125, ? / निम्नलिखित बॉक्स में लुप्त संख्या ज्ञात कीजिए।\n\n2     3     4\n5     6     7\n29   45    ?",
     "A": "65 / 65",
     "B": "53 / 53",
     "C": "49 / 49",
