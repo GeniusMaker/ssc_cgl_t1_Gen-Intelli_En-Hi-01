@@ -64,7 +64,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Choose the correct alternative to complete the series. 2, 5, 11, 23, 47, ? / श्रृंखला को पूरा करने के लिए सही विकल्प चुनिए।\n\n2, 5, 11, 23, 47, ?",
+    "Question": "Choose the correct alternative to complete the series. / श्रृंखला को पूरा करने के लिए सही विकल्प चुनिए।\n\n2, 5, 11, 23, 47, ?",
     "A": "95 / 95",
     "B": "94 / 94",
     "C": "96 / 96",
@@ -72,7 +72,7 @@
     "Correct": "A"
   },
   {
-    "Question": "In a row of boys, Srinath is 7th from the left and Venkat is 12th from the right. If they interchange their positions, Srinath becomes 22nd from the left. How many boys are there in the row? / लड़कों की एक पंक्ति में, श्रीनाथ बाएं से 7वें and वेंकट दाएं से 12वें स्थान पर हैं। यदि वे आपस में अपना स्थान बदल लेते हैं, तो श्रीनाथ बाएं से 22वें स्थान पर आ जाता है। पंक्ति में कुल कितने लड़के हैं?",
+    "Question": "In a row of boys, Srinath is 7th from the left and Venkat is 12th from the right. If they interchange their positions, Srinath becomes 22nd from the left. How many boys are there in the row? / लड़कों की एक पंक्ति में, श्रीनाथ बाएं से 7वें और वेंकट दाएं से 12वें स्थान पर हैं। यदि वे आपस में अपना स्थान बदल लेते हैं, तो श्रीनाथ बाएं से 22वें स्थान पर आ जाता है। पंक्ति में कुल कितने लड़के हैं?",
     "A": "33 / 33",
     "B": "31 / 31",
     "C": "34 / 34",
@@ -112,7 +112,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Select the missing number from the given responses.  8 6 5 7 9 8 56 54 ? / दिए गए विकल्पों में से लुप्त संख्या चुनिए।\n\n8     6     5\n7     9     8\n56   54    ?",
+    "Question": "Select the missing number from the given responses. / दिए गए विकल्पों में से लुप्त संख्या चुनिए।\n\n8     6     5\n7     9     8\n56   54    ?",
     "A": "40 / 40",
     "B": "45 / 45",
     "C": "35 / 35",
@@ -176,7 +176,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Find the missing number in the following box.1, 8, 27, 64, 125, ? / निम्नलिखित बॉक्स में लुप्त संख्या ज्ञात कीजिए।\n\n2     3     4\n5     6     7\n29   45    ?",
+    "Question": "Find the missing number in the following box. / निम्नलिखित बॉक्स में लुप्त संख्या ज्ञात कीजिए।\n\n2     3     4\n5     6     7\n29   45    ?",
     "A": "65 / 65",
     "B": "53 / 53",
     "C": "49 / 49",
