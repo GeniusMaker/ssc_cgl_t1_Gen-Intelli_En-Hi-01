@@ -8,7 +8,7 @@
     "Correct": "C"
   },
   {
-    "Question": "Select the related letters from the given alternatives. / दिए गए विकल्पों में से संबंधित अक्षरों को चुनिए।\n\nABCD : NPRT :: EFGH : ? / ABCD : NPRT :: EFGH : ?",
+    "Question": "Select the related letters from the given alternatives. 16 : 49 :: 25 : ? / दिए गए विकल्पों में से संबंधित अक्षरों को चुनिए। ABCD : NPRT :: EFGH : ?",
     "A": "SUWY",
     "B": "TVXZ",
     "C": "RTUX",
@@ -16,7 +16,7 @@
     "Correct": "B"
   },
   {
-    "Question": "Select the related number from the given alternatives. / दिए गए विकल्पों में से संबंधित संख्या को चुनिए।\n\n16 : 49 :: 25 : ? / 16 : 49 :: 25 : ?",
+    "Question": "Select the related number from the given alternatives. 16 : 49 :: 25 : ? / दिए गए विकल्पों में से संबंधित संख्या को चुनिए। 16 : 49 :: 25 : ?",
     "A": "64",
     "B": "81",
     "C": "100",
@@ -48,7 +48,7 @@
     "Correct": "D"
   },
   {
-    "Question": "Arrange the following words in a meaningful and logical order. / निम्नलिखित शब्दों को एक सार्थक और तार्किक क्रम में व्यवस्थित करें।\n\n1. Gold, 2. Iron, 3. Platinum, 4. Diamond / 1. सोना, 2. लोहा, 3. प्लैटिनम, 4. हीरा",
+    "Question": "Arrange the following words in a meaningful and logical order: 1. Gold, 2. Iron, 3. Platinum, 4. Diamond / निम्नलिखित शब्दों को एक सार्थक और तार्किक क्रम में व्यवस्थित करें: 1. सोना, 2. लोहा, 3. प्लैटिनम, 4. हीरा",
     "A": "2, 1, 4, 3",
     "B": "2, 1, 3, 4",
     "C": "1, 2, 3, 4",
@@ -56,7 +56,7 @@
     "Correct": "A"
   },
   {
-    "Question": "A series is given with one term missing. Choose the correct alternative from the given ones that will complete the series. / एक श्रृंखला दी गई है जिसमें एक पद लुप्त है। दिए गए विकल्पों में से वह सही विकल्प चुनिए जो श्रृंखला को पूरा करेगा।\n\nZ, X, V, T, R, ?",
+    "Question": "A series is given with one term missing. Choose the correct alternative from the given ones that will complete the series. Z, X, V, T, R, ? / एक श्रृंखला दी गई है जिसमें एक पद लुप्त है। दिए गए विकल्पों में से वह सही विकल्प चुनिए जो श्रृंखला को पूरा करेगा। Z, X, V, T, R, ?",
     "A": "P",
     "B": "O",
     "C": "Q",
@@ -64,7 +64,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Choose the correct alternative to complete the series. / श्रृंखला को पूरा करने के लिए सही विकल्प चुनिए।\n\n2, 5, 11, 23, 47, ?",
+    "Question": "Choose the correct alternative to complete the series: 2, 5, 11, 23, 47, ? / श्रृंखला को पूरा करने के लिए सही विकल्प चुनिए: 2, 5, 11, 23, 47, ?",
     "A": "95",
     "B": "94",
     "C": "96",
@@ -80,7 +80,7 @@
     "Correct": "A"
   },
   {
-    "Question": "From the given alternative words, select the word which CANNOT be formed using the letters of the given word. / दिए गए वैकल्पिक शब्दों में से, उस शब्द को चुनिए जो दिए गए शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता।\n\nTRANSPORTATION",
+    "Question": "From the given alternative words, select the word which CANNOT be formed using the letters of the given word: TRANSPORTATION / दिए गए वैकल्पिक शब्दों में से, उस शब्द को चुनिए जो दिए गए शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता: TRANSPORTATION",
     "A": "TRAIN",
     "B": "START",
     "C": "PORT",
@@ -96,7 +96,7 @@
     "Correct": "A"
   },
   {
-    "Question": "If '+' means '÷', '-' means '+', '×' means '-' and '÷' means '×', then find the value of: / यदि '+' का अर्थ '÷', '-' का अर्थ '+', '×' का अर्थ '-' और '÷' का अर्थ '×' है, तो मान ज्ञात कीजिए:\n\n24 + 6 - 2 × 3 ÷ 2 = ?",
+    "Question": "If '+' means '÷', '-' means '+', '×' means '-' and '÷' means '×', then find the value of: 24 + 6 - 2 × 3 ÷ 2 = ? / यदि '+' का अर्थ '÷', '-' का अर्थ '+', '×' का अर्थ '-' और '÷' का अर्थ '×' है, तो मान ज्ञात कीजिए: 24 + 6 - 2 × 3 ÷ 2 = ?",
     "A": "0",
     "B": "1",
     "C": "2",
@@ -168,7 +168,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Select the missing number from the given options. / दिए गए विकल्पों में से लुप्त संख्या चुनिए।\n\n4, 9, 20, 43, 90, ?",
+    "Question": "Select the missing number from the given options: 4, 9, 20, 43, 90, ? / दिए गए विकल्पों में से लुप्त संख्या चुनिए: 4, 9, 20, 43, 90, ?",
     "A": "185",
     "B": "180",
     "C": "190",
@@ -184,7 +184,7 @@
     "Correct": "A"
   },
   {
-    "Question": "In a certain code, '256' means 'you are good', '637' means 'we are bad', and '358' means 'good and bad'. Find the code for 'and'. / एक निश्चित कोड में, '256' का अर्थ 'you are good', '637' का अर्थ 'we are bad', and '358' का अर्थ 'good and bad' है। 'and' का कोड ज्ञात कीजिए।",
+    "Question": "In a certain code, '256' means 'you are good', '637' means 'we are bad', and '358' means 'good and bad'. Find the code for 'and'. / एक निश्चित कोड में, '256' का अर्थ 'you are good', '637' का अर्थ 'we are bad', और '358' का अर्थ 'good and bad' है। 'and' का कोड ज्ञात कीजिए।",
     "A": "8",
     "B": "5",
     "C": "3",
@@ -192,7 +192,7 @@
     "Correct": "A"
   },
   {
-    "Question": "If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure? / यदि एक दर्पण को MN रेखा पर रखा जाए, तो दी गई आकृति की सही दर्पण छवि कौन सी होगी?\n\nGiven word: GLANCE / दिया गया शब्द: GLANCE",
+    "Question": "If a mirror is placed on the line MN, then which of the answer figures is the right image of the given word GLANCE? / यदि एक दर्पण को MN रेखा पर रखा जाए, तो दिए गए शब्द GLANCE की सही दर्पण छवि कौन सी होगी?",
     "A": "ECNALG (Reversed horizontally) / ECNALG (क्षैतिज रूप से उलटा)",
     "B": "GLANCE (Normal) / GLANCE (सामान्य)",
     "C": "ECNALG (Inverted vertically) / ECNALG (लंबवत रूप से उलटा)",
@@ -208,7 +208,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Which character combination completes the pattern? / कौन सा अक्षर संयोजन पैटर्न को पूरा करता है?\n\na _ b c _ a _ b _ c a b",
+    "Question": "Which character combination completes the pattern? a _ b c _ a _ b _ c a b / कौन सा अक्षर संयोजन पैटर्न को पूरा करता है? a _ b c _ a _ b _ c a b",
     "A": "a b c a",
     "B": "b a c a",
     "C": "a c b a",
@@ -216,7 +216,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Choose the correct alternative that has the same relationship. / समान संबंध वाले सही विकल्प का चयन करें।\n\n12 : 144 :: 13 : ? / 12 : 144 :: 13 : ?",
+    "Question": "Choose the correct alternative that has the same relationship. 12 : 144 :: 13 : ? / समान संबंध वाले सही विकल्प का चयन करें। 12 : 144 :: 13 : ?",
     "A": "169",
     "B": "196",
     "C": "156",
@@ -232,7 +232,7 @@
     "Correct": "D"
   },
   {
-    "Question": "Arrange the given words in alphabetical order and choose the one that comes third. / दिए गए शब्दों को वर्णानुक्रम में व्यवस्थित करें और तीसरे स्थान पर आने वाले शब्द को चुनें।\n\n1. Active, 2. Actor, 3. Action, 4. Account",
+    "Question": "Arrange the given words in alphabetical order and choose the one that comes third: 1. Active, 2. Actor, 3. Action, 4. Account / दिए गए शब्दों को वर्णानुक्रम में व्यवस्थित करें और तीसरे स्थान पर आने वाले शब्द को चुनें: 1. Active, 2. Actor, 3. Action, 4. Account",
     "A": "Action",
     "B": "Active",
     "C": "Actor",
@@ -240,7 +240,7 @@
     "Correct": "B"
   },
   {
-    "Question": "Select the related option. / संबंधित विकल्प का चयन करें।\n\nPen : Write :: Knife : ? / पेन : लिखना :: चाकू : ?",
+    "Question": "Select the related option. Pen : Write :: Knife : ? / संबंधित विकल्प का चयन करें। पेन : लिखना :: चाकू : ?",
     "A": "Cut / काटना",
     "B": "Shoot / मारना",
     "C": "Eat / खाना",
@@ -248,7 +248,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Select the related number-pair. / संबंधित संख्या-युग्म का चयन करें।\n\n8 : 64 :: 11 : ? / 8 : 64 :: 11 : ?",
+    "Question": "Select the related number-pair. 8 : 64 :: 11 : ? / संबंधित संख्या-युग्म का चयन करें। 8 : 64 :: 11 : ?",
     "A": "121",
     "B": "110",
     "C": "132",
@@ -272,7 +272,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Find the missing character. / लुप्त वर्ण ज्ञात कीजिए।\n\nB, D, G, K, P, ?",
+    "Question": "Find the missing character in the sequence: B, D, G, K, P, ? / लुप्त वर्ण ज्ञात कीजिए: B, D, G, K, P, ?",
     "A": "V",
     "B": "U",
     "C": "W",
@@ -280,7 +280,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Find the missing term in the sequence. / अनुक्रम में लुप्त पद ज्ञात कीजिए।\n\n10, 18, 34, 66, 130, ?",
+    "Question": "Find the missing term in the sequence: 10, 18, 34, 66, 130, ? / अनुक्रम में लुप्त पद ज्ञात कीजिए: 10, 18, 34, 66, 130, ?",
     "A": "258",
     "B": "260",
     "C": "250",
@@ -288,7 +288,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Which of the following interchange of signs would make the equation correct? / निम्नलिखित में से चिन्हों का कौन सा परस्पर बदलाव समीकरण को सही बना देगा?\n\n6 × 4 + 2 = 16",
+    "Question": "Which of the following interchange of signs would make the equation correct? 6 × 4 + 2 = 16 / निम्नलिखित में से चिन्हों का कौन सा परस्पर बदलाव समीकरण को सही बना देगा? 6 × 4 + 2 = 16",
     "A": "+ and × / + और ×",
     "B": "No change / कोई बदलाव नहीं",
     "C": "None / कोई नहीं",
@@ -312,7 +312,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Identify the number that belongs to all three geometric figures. / उस संख्या को पहचानें जो तीनों ज्यामितीय आकृतियों से संबंधित है।\n\nCircle, Triangle, Rectangle intersecting. / वृत्त, त्रिभुज, आयत प्रतिच्छेदन।",
+    "Question": "Identify the number that belongs to all three intersecting geometric figures: Circle, Triangle, Rectangle. / उस संख्या को पहचानें जो तीनों प्रतिच्छेदी ज्यामितीय आकृतियों से संबंधित है: वृत्त, त्रिभुज, आयत।",
     "A": "4",
     "B": "3",
     "C": "5",
@@ -320,7 +320,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Which word cannot be formed from: ENVIRONMENT? / ENVIRONMENT शब्द से कौन सा शब्द नहीं बनाया जा सकता है?",
+    "Question": "Which word cannot be formed from the letters of the word: ENVIRONMENT? / ENVIRONMENT शब्द के अक्षरों से कौन सा शब्द नहीं बनाया जा सकता है?",
     "A": "EMINENT",
     "B": "MOVE",
     "C": "ENTER",
@@ -328,7 +328,7 @@
     "Correct": "D"
   },
   {
-    "Question": "Complete the analogy. / सादृश्यता को पूरा करें।\n\n49 : 81 :: 100 : ? / 49 : 81 :: 100 : ?",
+    "Question": "Complete the analogy. 49 : 81 :: 100 : ? / सादृश्यता को पूरा करें। 49 : 81 :: 100 : ?",
     "A": "144",
     "B": "121",
     "C": "169",
@@ -336,7 +336,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Find the odd letters out. / विषम अक्षरों को चुनिए।",
+    "Question": "Find the odd letters out from the given alternatives. / दिए गए विकल्पों में से विषम अक्षरों को चुनिए।",
     "A": "ABCD",
     "B": "IJKL",
     "C": "QRXT",
@@ -344,7 +344,7 @@
     "Correct": "C"
   },
   {
-    "Question": "Arrange according to dictionary order: / शब्दकोश के क्रम के अनुसार व्यवस्थित करें:\n1. Bright, 2. Brand, 3. Brave, 4. Brick / 1. Bright, 2. Brand, 3. Brave, 4. Brick",
+    "Question": "Arrange the given words according to dictionary order: 1. Bright, 2. Brand, 3. Brave, 4. Brick / शब्दकोश के क्रम के अनुसार व्यवस्थित करें: 1. Bright, 2. Brand, 3. Brave, 4. Brick",
     "A": "2, 3, 4, 1",
     "B": "2, 3, 1, 4",
     "C": "3, 2, 1, 4",
@@ -352,7 +352,7 @@
     "Correct": "B"
   },
   {
-    "Question": "If 'WATER' is written as 'YCVGT', then 'FIRE' will be written as: / यदि 'WATER' को 'YCVGT' लिखा जाता है, तो 'FIRE' को लिखा जाएगा:",
+    "Question": "If 'WATER' is written as 'YCVGT', then how will 'FIRE' be written? / यदि 'WATER' को 'YCVGT' लिखा जाता है, तो 'FIRE' को कैसे लिखा जाएगा?",
     "A": "HKTG",
     "B": "GKTG",
     "C": "HKTF",
@@ -360,7 +360,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Find the missing number: / लुप्त संख्या ज्ञात कीजिए:\n\n1, 8, 27, 64, 125, ?",
+    "Question": "Find the missing number: 1, 8, 27, 64, 125, ? / लुप्त संख्या ज्ञात कीजिए: 1, 8, 27, 64, 125, ?",
     "A": "216",
     "B": "343",
     "C": "225",
@@ -376,7 +376,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Find the odd number-pair: / विषम संख्या-युग्म ज्ञात कीजिए:",
+    "Question": "Find the odd number-pair from the alternatives. / विकल्पों में से विषम संख्या-युग्म ज्ञात कीजिए।",
     "A": "21 - 42",
     "B": "24 - 48",
     "C": "37 - 74",
@@ -392,7 +392,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Complete the pattern: / पैटर्न को पूरा करें:\n\n2, 3, 6, 15, 42, ?",
+    "Question": "Complete the pattern: 2, 3, 6, 15, 42, ? / पैटर्न को पूरा करें: 2, 3, 6, 15, 42, ?",
     "A": "123",
     "B": "114",
     "C": "135",
